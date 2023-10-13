@@ -233,6 +233,11 @@ header .navbar ul li a:hover{
     margin-right: 0.5rem;
 }
 
+.service .box-container .box img:hover {
+    scale: 2.5;
+    
+}
+
 .box {
     height: 24rem;
 }
