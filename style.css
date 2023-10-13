@@ -234,7 +234,7 @@ header .navbar ul li a:hover{
 }
 
 .service .box-container .box img:hover {
-    scale: 0.4;
+    scale: 0.9;
     transition: 2s;
     
 }
