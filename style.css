@@ -408,7 +408,7 @@ header .navbar ul li a:hover{
     height: 20rem;
     margin-right: 0.5rem;
 }
-.pimg {
+.service .box-container .box.pimg {
    display: none;
     
 }
@@ -427,7 +427,7 @@ header .navbar ul li a:hover{
     .theme-toggler {
         display: flex;
     }
-    .pimg {
+  .service .box-container .box.pimg {
    display: none;
     
 }
@@ -474,7 +474,7 @@ header .navbar ul li a:hover{
     .theme-toggler {
         display: flex;
     }
-   .pimg {
+  .service .box-container .box.pimg {
    display: none;
     
 }
@@ -512,7 +512,7 @@ header .navbar ul li a:hover{
     .theme-toggler {
         display: flex;
     }
-    .pimg {
+    .service .box-container .box.pimg {
    display: none;
     
 }
@@ -532,7 +532,7 @@ header .navbar ul li a:hover{
         width: 75rem;
         height: 20%;
     }
-    .pimg {
+    .service .box-container .box.pimg {
    display: none;
     
 }
@@ -589,11 +589,10 @@ header .navbar ul li a:hover{
     .theme-toggler {
         display: flex;
     }
-    .pimg {
+   .service .box-container .box.pimg {
    display: none;
     
 }
-
 }
 
 
@@ -657,7 +656,7 @@ header .navbar ul li a:hover{
     .theme-toggler {
         display: flex;
     }
-    .pimg {
+    .service .box-container .box.pimg {
    display: none;
     
 }
